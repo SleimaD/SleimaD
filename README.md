@@ -1,34 +1,35 @@
-# Hi, I'm Sleima 👋
+Hi, I'm Sleima 👋  
+**Full-Stack Developer — React/Next.js & Python (Django/Flask/FastAPI) | Data & AI Integration**  
+Based in Belgium • FR/EN/NL • Eligible for IBO/FPI  
 
-**Full-Stack Developer — React/Next.js & Python (Django/Flask/FastAPI) | AI Integration**  
-Based in Belgium • FR/EN/NL • **Eligible for IBO/FPI**
+I build clean, reliable web applications and enjoy turning ideas into meaningful, maintainable products.  
+Trained through a 34-week full-time bootcamp at **MolenGeek** and the **IBM AI Developer track**,  
+I focus on clarity, collaboration, and continuous improvement in every project I work on.  
 
-I build clean, production-ready web apps and AI-powered features. Trained through a **34-week full-time bootcamp (MolenGeek)** and the **IBM AI Developer** track. I focus on clean, readable code and I’m starting to integrate tests and small PR workflows into my projects.
+⚙️ **Tech**  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, React Native  
+**Backend:** Python (Django, Flask, FastAPI), Next.js API Routes, REST APIs  
+**Databases:** SQL (MySQL, PostgreSQL), Supabase (Auth, Storage)  
+**Data & AI:** Pandas, NumPy, Streamlit, Hugging Face, Generative AI, NLP, Prompt Engineering  
+**Tools & Workflow:** Git/GitHub, GitHub Actions, CI/CD (Vercel), Agile/Scrum, Figma, DBeaver  
 
-## ⚙️ Tech
-**Frontend**: React, Next.js, TypeScript, Tailwind, React Native  
-**Backend**: Python (Django, Flask, FastAPI), Node/Express, REST APIs  
-**DB**: PostgreSQL, MySQL, Supabase (Auth, RLS, Storage)  
-**AI/Data**: Hugging Face, Generative AI, NLP, Pandas, NumPy  
-**Deployment/Tools**: Git/GitHub, GitHub Actions, Vercel (auto-deploy/CI basics), Figma
+📌 **Projects**  
+**Data Pipeline Dashboard** — Python, Pandas, Streamlit  
+Built an end-to-end data pipeline to process and visualize web server logs.  
+Includes data cleaning, anomaly detection, and an interactive dashboard.  
 
-## 📌 Featured projects
-- **AI Image Generator** — Next.js + Supabase/PostgreSQL + Hugging Face  
-  _Auth, prompt history, signed URLs. Deployed on Vercel._
-- **Royella – Hotel Management** — React + Django + MySQL  
-  _Booking engine, roles, invoices, availability calendar (WIP tests & CI)._
-- **SimpleChat.ai (vanilla)** — HTML/CSS/JS (no framework)  
-  _DOM-driven chatbot to re-practise fundamentals and state management._
+**Royella – Hotel Management** — React, Django, MySQL  
+Developed a full-stack hotel management app with booking engine, client records, and automated forms.  
+Delivered under deadlines as a final capstone project.  
 
-## 🎓 Education & Certifications
-- **Bachelor in Business informatics** - ISFCE, Brussels ( 2021 - 2023 ) 
-- **Full-Stack Web Development (34-week)** — MolenGeek Coding School, Brussels (2023–2024)  
-- **IBM AI Developer** — Generative AI, NLP, Hugging Face (2024–2025)
 
-## 🔗 Links
-Portfolio → https://sleima-portfolio.vercel.app  
-LinkedIn → https://linkedin.com/in/sleima-ducros  
+🎓 **Education & Certifications**  
+🎓 Full-Stack Web Development (34-week) — MolenGeek Coding School, Brussels (2023–2024)  
+🎓 IBM AI Developer — Generative AI, NLP, Hugging Face (2024–2025)  
+🎓 Bachelor in Business Informatics — ISFCE Brussels (2021–2023)  
 
----
+🔗 **Links**  
+🌐 [Portfolio](https://sleima-portfolio.vercel.app)  
+💼 [LinkedIn](https://linkedin.com/in/sleima-ducros)  
 
-_If my profile matches your needs, I’d love to chat about a Junior Full Stack or Software Engineer role._
+If my profile matches your needs, I’d love to chat about a **Junior Full-Stack** or **Python Developer** role.
