@@ -1,56 +1,58 @@
-## 👋 Hi, I'm Sleima Ducros  
-**Full-Stack Developer | Python · React · Next.js | Building reliable, data-driven web apps**  
-📍 Based in Belgium · FR / EN / NL · Eligible for IBO/FPI  
+# Hi, I’m Sleima Ducros 👋
+
+**Software Engineer | Python & TypeScript | Web, Data & System-Oriented Applications**  
+🇧🇪 Belgium • FR / EN / NL • Open to backend, full-stack, frontend, and data-oriented roles
 
 ---
 
-### About
-I’m a Full-Stack Developer focused on building clean, reliable, and user-friendly web applications.  
-My main stack is **Python and Next.js (React)**, supported by **Supabase, SQL, Streamlit**, and lightweight AI tools (**OpenAI, Hugging Face**).  
-I enjoy connecting logic, design, and data to create web apps that people can actually use.  
+## Overview
 
-I trained through a **34-week intensive program at MolenGeek** and completed the **IBM AI Developer certification** (Generative AI, NLP, Hugging Face).  
-I value clarity, collaboration, and continuous learning and I love contributing to meaningful, production-ready projects.  
+I build **structured web and data-driven systems** with a focus on **reliability, clarity, and maintainability**.  
+Comfortable moving between **backend logic**, **API design**, **data workflows**, and **user-facing interfaces**—especially when the product needs predictable behavior under real constraints (performance, state consistency, offline usage, integration limits).
 
 ---
 
-### ⚙️ Tech Stack
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, React Native  
-**Backend:** Python (Django, Flask, FastAPI), Next.js API Routes, REST APIs  
-**Database:** MySQL, PostgreSQL, Supabase (Auth, Storage)  
-**Data & AI:** Pandas, Streamlit, Hugging Face, OpenAI, Generative AI, NLP, Prompt Engineering  
-**Tools & Workflow:** Git/GitHub, CI/CD (Vercel, GitHub Actions), Docker (basics), Figma, Agile/Scrum  
+## Core strengths
+
+- **Backend & APIs:** Python services, REST APIs, authentication flows, business rules, predictable state handling  
+- **Web applications:** React / Next.js interfaces, clean UI integration, performance-minded implementation  
+- **Data workflows:** SQL + Pandas pipelines, reproducible processing, monitoring/inspection views  
+- **System thinking:** workflow-driven design, consistency guarantees, auditability, long-term maintainability
 
 ---
 
-### Featured Projects
+## Tech stack
 
-** Data Pipeline & Monitoring Dashboard —** *Python, Pandas, Streamlit, Altair*  
-Built and deployed an end-to-end data pipeline to process and visualize web-server logs.  
-Includes data cleaning, simple anomaly detection, and real-time monitoring via an interactive dashboard.  
+**Languages:** Python • TypeScript  
+**Backend:** Django • FastAPI • Flask • REST APIs • JWT Auth  
+**Frontend:** React • Next.js (PWA-ready)  
+**Data:** SQL (PostgreSQL, MySQL) • Pandas • Streamlit  
+**AI integration:** OpenAI API • Hugging Face  
+**Infra & tooling:** Docker • Git/GitHub • CI/CD • (basic)  
+**Design:** Figma
 
-** Royella — Hotel Management App —** *React, Django, MySQL*  
-Developed a full-stack hotel management system with booking logic, client records, and automated forms.  
-Delivered under deadlines as a final capstone project.  
 
-** AI Prototypes —** *Flask, Next.js, Hugging Face, OpenAI*  
-Created small demos (chatbot, image generator) to explore practical AI use cases.  
-Focused on reliable APIs, minimal UI, and iterative prompt tuning for consistent results.  
 
 ---
 
-### 🎓 Education & Certifications
-- **IBM AI Developer Certification** (Generative AI, NLP, Hugging Face) — *Coursera / 2024–2025*  
-- **Full-Stack Web Development Bootcamp** (34-week intensive) — *MolenGeek Coding School, Brussels / 2023–2024*  
-- **Bachelor Studies in Business Informatics** (2 years completed) — *ISFCE Brussels / 2021–2023*  
+## Background
+
+- **IBM AI Developer Certificate (Coursera)** — Generative AI & integration (OpenAI/Hugging Face)  
+- **Full-Stack Web Development Bootcamp (MolenGeek, Brussels)** — 34 weeks (2023–2024)  
+- **Business Informatics (2 years completed)** — ISFCE Brussels
 
 ---
 
-### 🔗 Links
-🌐 [Portfolio](https://sleima-portfolio.vercel.app)  
-💼 [LinkedIn](https://linkedin.com/in/sleima-ducros)  
-  [GitHub](https://github.com/SleimaD)
+## What I’m looking for
+
+Opportunities where **structured thinking**, **clean implementation**, and **long-term maintainability** are valued—across:
+**backend**, **full-stack**, **frontend**, or **data-oriented** work.
 
 ---
 
-If my profile matches what you’re looking for, I’d be happy to discuss how I can contribute to your team.
+## Links
+
+- Portfolio: https://sleima-portfolio.vercel.app  
+- LinkedIn: https://www.linkedin.com/in/sleima-ducros  
+
+If you’d like to discuss a role or collaboration, feel free to reach out.
